@@ -21,10 +21,10 @@ with col2:
     st.info(about)
 
 st.text("")
-st.markdown("""<hr style="height:10px;border:none;color:#333;background-color:#333;" /> """, unsafe_allow_html=True)
-st.write("Here are a few projects that I've worked on:")
-
-col3, col4 = st.columns(2)
+st.markdown("""<hr style="height:7px;border:none;color:#333;background-color:#333;" /> """, unsafe_allow_html=True)
+st.header("My Projects")
+st.markdown("""<hr style="height:7px;border:none;color:#33300;background-color:#33300;" /> """, unsafe_allow_html=True)
+col3, null_col, col4 = st.columns([1.5,0.5,1.5])
 
 data = pandas.read_csv("data.csv")
 
@@ -33,9 +33,14 @@ col4_data = data[10:]
 
 with col3:
     for index, row in col3_data.iterrows():
-        st.header(row["title"])
-
+        st.subheader(row["title"])
+        st.image("images/" + row["image"])
+        st.write(row["description"])
+        st.write(f"[Source Code]({row['url']})")
 with col4:
     for index, row in col4_data.iterrows():
-        st.header(row["title"])
+        st.subheader(row["title"])
+        st.image("images/" + row["image"])
+        st.write(row["description"])
+        st.write(f"[Source Code]({row['url']})")
 
