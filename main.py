@@ -28,6 +28,7 @@ col3, null_col, col4 = st.columns([1.5,0.5,1.5])
 
 data = pandas.read_csv("data.csv")
 
+
 col3_data = data[:10]
 col4_data = data[10:]
 

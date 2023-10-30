@@ -1,6 +1,6 @@
 title,description,url,image
-Todo List Application,A simple Todo List Application that helps you manage your tasks with no distractions,https://pythonhow.com,1.png
-Todo App Web App (WIP),A distraction-free web app with cross-platform data synchronization to help you focus on creating and completing tasks.,https://pythonhow.com,1.png
+Todo List Application,A simple Todo List desktop application that helps you manage your tasks with no distractions,https://github.com/Notgoldwag/Todo_List_Desktop_Application.git,1.png
+Todo App Web App (WIP),A distraction-free web app with cross-platform data synchronization to help you focus on creating and completing tasks.,https://github.com/Notgoldwag/todo_list_web_app.git,1.png
 Portfolio Website,A website built in Python to showcase coding projects,https://pythonhow.com,2.png
 PDF Templates,A script that generates PDF templates of multiple pages given some predefined guidelines.,https://pythonhow.com,3.png
 Positive News Site,A website that gets data from a news API and uses sentiment analysis to publish only positive news.,https://pythonhow.com,5.png
@@ -17,3 +17,4 @@ Visualizing Data,A program that visualizes the data collected in the previous mo
 Visualizing Weather Forecast,A data web app that visualizes the weather forecast for the next five days of any city.,https://pythonhow.com,16.png
 Restaurant Menu Web App,A Django web app to let customers see a restaurant menu and meal availability.,https://pythonhow.com,19.png
 Online Store,A Django online store app where users can place orders and sellers can manage them.,https://pythonhow.com,20.png
+Space Shooter,A vintage arcade game with a modern twist that allows users to defends their spaceship from aliens ,https://github.com/Notgoldwag/Space_shooter.git,space_shooter.jpg
