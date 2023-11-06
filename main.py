@@ -13,9 +13,9 @@ with col1:
 
 with col2:
     st.title("Jaisharan Ashok Kumar")
-    about = """ Hey I am Jaisharan Ashok Kumar! I am dedicated computer science enthusiast driven by a profound passion for technology and innovation. 
-    Through my portfolio, you'll discover a collection of projects that not only reflect my commitment to learning but also my creative spirit. 
-    As I continue on this exciting journey, I look forward to sharing my experiences and achievements in the world of technology.
+    about = """ Hey I am Jaisharan Ashok Kumar! I am dedicated computer science enthusiast driven by a passion for technology and innovation. 
+    Through my portfolio, you'll discover a collection of projects that I've worked on. 
+    Be on the lookout as I constantly update this website.
     """
 
     st.info(about)
@@ -29,8 +29,8 @@ col3, null_col, col4 = st.columns([1.5,0.5,1.5])
 data = pandas.read_csv("data.csv")
 
 
-col3_data = data[:10]
-col4_data = data[10:]
+col3_data = data[:7]
+col4_data = data[7:]
 
 with col3:
     for index, row in col3_data.iterrows():
