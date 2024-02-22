@@ -4,7 +4,7 @@ Todo App Web App,A distraction-free web app with cross-platform data synchroniza
 Portfolio Website,A website built in Python to showcase coding projects,https://github.com/Notgoldwag/Portfolio-website.git,2.png
 Astronomy Image of the Day Website,A website that showcases daily astronomical images from NASA with general descriptions about it.,https://github.com/Notgoldwag/Nasa_IOD.git,aod.png
 Daily News Digest,A website that gets data from a news API and sends it to the user's email,,5.png
-Open Domain Chatbot,A chatbot that knows about a specific topic and answers questions regarding that topic.,https://github.com/Notgoldwag/chatbot.git,10.png
+AI Chatbot,A chatbot that knows about a specific topic and answers questions regarding that topic.,https://github.com/Notgoldwag/chatbot.git,10.png
 Webcam Motion Detector,A program that monitors the computer webcam and sends an email when a new object enters the view or when it detects motion of an existing object,,11.png
 Space Shooter,A vintage arcade game with a modern twist that allows users to defends their spaceship from aliens ,https://github.com/Notgoldwag/Space_shooter.git,space_shooter.jpg
 Infection,A local multiplayer mini game where a random user is infected and has a goal of infecting everyone else.,https://github.com/Notgoldwag/infection_mini_game,infection.png
@@ -12,4 +12,6 @@ Foodie,A local multiplayer mini game where users have to find the the camouflage
 Capture the flag,A local multiplayer version of the classic game: Capture the Flag,https://github.com/Notgoldwag/capture-the-flag.git,ctf.png
 Pong,A local multiplayer version of the classic game: Pong ,https://github.com/Notgoldwag/pong.git,pong.png
 Freeze Tag,A local multipler version of the classic game: Freeze Tag,https://github.com/Notgoldwag/freeze_tag.git,freeze_tag.png
-PDF_Tools,"A command line PDF_Tools program that allows users to trim pdfs, merge pdfs, sumamrize content in pdfs, convert text to speech, and much more",https://github.com/Notgoldwag/PDF_TOOLS.git,pdf-tools-logo.jpeg
+PDF_Tools (CLI),"A command line PDF_Tools program that allows users to trim pdfs, merge pdfs, sumamrize content in pdfs, convert text to speech, and much more",https://github.com/Notgoldwag/PDF_TOOLS.git,pdf-tools-logo.jpeg
+Restaurant Website,"A clean, user-friendly website for the fictional company - Culinary Harbor",https://github.com/Yaswanth0618/WebDevFBLA,restaurant_website_logo.jpeg
+PDF_Tools (GUI),"A PDF_Tools program (with a GUI) that allows users to trim pdfs, merge pdfs, sumamrize content in pdfs, convert text to speech, and much more",https://github.com/Notgoldwag/PDF_TOOLS.git,pdf-tools-logo.jpeg
