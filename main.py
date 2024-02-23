@@ -38,10 +38,12 @@ with col3:
         st.image("images/" + row["image"])
         st.write(row["description"])
         st.write(f"[Source Code]({row['url']})")
+        st.write(f"[Link to Project]({row['project_url']})")
 with col4:
     for index, row in col4_data.iterrows():
         st.subheader(row["title"])
         st.image("images/" + row["image"])
         st.write(row["description"])
         st.write(f"[Source Code]({row['url']})")
+        st.write(f"[Link to Project]({row['project_url']})")
 
