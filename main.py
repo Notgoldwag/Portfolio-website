@@ -29,8 +29,8 @@ col3, null_col, col4 = st.columns([1.5,0.5,1.5])
 data = pandas.read_csv("data.csv")
 
 
-col3_data = data[:8]
-col4_data = data[8:]
+col3_data = data[:9]
+col4_data = data[9:]
 
 with col3:
     for index, row in col3_data.iterrows():
